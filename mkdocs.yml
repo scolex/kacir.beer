@@ -1,0 +1,10 @@
+site_name: Kacíř
+theme:
+  name: material
+  font: false
+  palette:
+    primary: grey
+
+plugins:
+  - search
+
